@@ -1,0 +1,11 @@
+D:\IT Miki\C#\Certificate in Programming - DBS course\OO Programming\Assignment\OOPAssignment\OOPAssignment\bin\Debug\OOPAssignment.exe.config
+D:\IT Miki\C#\Certificate in Programming - DBS course\OO Programming\Assignment\OOPAssignment\OOPAssignment\bin\Debug\OOPAssignment.exe
+D:\IT Miki\C#\Certificate in Programming - DBS course\OO Programming\Assignment\OOPAssignment\OOPAssignment\bin\Debug\OOPAssignment.pdb
+D:\IT Miki\C#\Certificate in Programming - DBS course\OO Programming\Assignment\OOPAssignment\OOPAssignment\obj\Debug\OOPAssignment.csprojResolveAssemblyReference.cache
+D:\IT Miki\C#\Certificate in Programming - DBS course\OO Programming\Assignment\OOPAssignment\OOPAssignment\obj\Debug\OOPAssignment.AddStudent.resources
+D:\IT Miki\C#\Certificate in Programming - DBS course\OO Programming\Assignment\OOPAssignment\OOPAssignment\obj\Debug\OOPAssignment.College.resources
+D:\IT Miki\C#\Certificate in Programming - DBS course\OO Programming\Assignment\OOPAssignment\OOPAssignment\obj\Debug\OOPAssignment.Properties.Resources.resources
+D:\IT Miki\C#\Certificate in Programming - DBS course\OO Programming\Assignment\OOPAssignment\OOPAssignment\obj\Debug\OOPAssignment.csproj.GenerateResource.Cache
+D:\IT Miki\C#\Certificate in Programming - DBS course\OO Programming\Assignment\OOPAssignment\OOPAssignment\obj\Debug\OOPAssignment.exe
+D:\IT Miki\C#\Certificate in Programming - DBS course\OO Programming\Assignment\OOPAssignment\OOPAssignment\obj\Debug\OOPAssignment.pdb
+D:\IT Miki\C#\Certificate in Programming - DBS course\OO Programming\Assignment\OOPAssignment\OOPAssignment\obj\Debug\OOPAssignment.AddLecturers.resources

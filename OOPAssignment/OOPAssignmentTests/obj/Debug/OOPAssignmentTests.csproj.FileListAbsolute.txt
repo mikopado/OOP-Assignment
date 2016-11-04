@@ -1,0 +1,8 @@
+D:\IT Miki\C#\Certificate in Programming - DBS course\OO Programming\Assignment\OOPAssignment\OOPAssignmentTests\bin\Debug\OOPAssignmentTests.dll
+D:\IT Miki\C#\Certificate in Programming - DBS course\OO Programming\Assignment\OOPAssignment\OOPAssignmentTests\bin\Debug\OOPAssignmentTests.pdb
+D:\IT Miki\C#\Certificate in Programming - DBS course\OO Programming\Assignment\OOPAssignment\OOPAssignmentTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\IT Miki\C#\Certificate in Programming - DBS course\OO Programming\Assignment\OOPAssignment\OOPAssignmentTests\bin\Debug\OOPAssignment.exe
+D:\IT Miki\C#\Certificate in Programming - DBS course\OO Programming\Assignment\OOPAssignment\OOPAssignmentTests\bin\Debug\OOPAssignment.pdb
+D:\IT Miki\C#\Certificate in Programming - DBS course\OO Programming\Assignment\OOPAssignment\OOPAssignmentTests\obj\Debug\OOPAssignmentTests.csprojResolveAssemblyReference.cache
+D:\IT Miki\C#\Certificate in Programming - DBS course\OO Programming\Assignment\OOPAssignment\OOPAssignmentTests\obj\Debug\OOPAssignmentTests.dll
+D:\IT Miki\C#\Certificate in Programming - DBS course\OO Programming\Assignment\OOPAssignment\OOPAssignmentTests\obj\Debug\OOPAssignmentTests.pdb
